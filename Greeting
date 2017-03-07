@@ -1,0 +1,6 @@
+var body= "Greeting &#44&#10Jason&#34"
+var greeting = [["&#44",","],['&#34','"']]
+for(var i=0;greeting.length >=i+1; i+=1) {
+  // body.replace(greeting[i][0], greeting[i][1]);
+  console.log(i);
+}
